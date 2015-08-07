@@ -1,0 +1,38 @@
+{
+  "name": "newrock",
+  "version": "0.0.0",
+  "description": "this is a boilerplate created by Victor Tanudjaja",
+  "main": "Gruntfile.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "boilerplate",
+    "victor",
+    "bootstrap"
+  ],
+  "author": "Victor Tanudjaja",
+  "license": "ISC",
+  "devDependencies": {
+    "autoprefixer-core": "^5.2.1",
+    "cssgrace": "^2.0.2",
+    "csswring": "^3.0.5",
+    "grunt": "^0.4.5",
+    "grunt-concurrent": "^1.0.0",
+    "grunt-connect": "^0.2.0",
+    "grunt-contrib-concat": "^0.5.1",
+    "grunt-contrib-copy": "^0.8.0",
+    "grunt-contrib-imagemin": "^0.9.4",
+    "grunt-contrib-jade": "^0.14.1",
+    "grunt-contrib-uglify": "^0.9.1",
+    "grunt-contrib-watch": "^0.6.1",
+    "grunt-notify": "^0.4.1",
+    "grunt-postcss": "^0.5.5",
+    "jit-grunt": "^0.9.1",
+    "matchdep": "^0.3.0",
+    "postcss": "^4.1.16",
+    "postcss-assets": "^2.1.2",
+    "postcss-focus": "^0.1.1",
+    "precss": "^0.2.2"
+  }
+}
